@@ -1,13 +1,13 @@
 // Utils
-
+@import './utils/variables';
 // Vendors
 
 // Base
 @import './base/reset';
 // Components
-
+@import './components/button';
 // Layouts
-
+@import './layouts/header';
 // Pages
 @import './pages/app';
 // Themes
