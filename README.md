@@ -1,4 +1,4 @@
-# Template
+# Template React-Ts with ViteJs
 
 what I added :
 
